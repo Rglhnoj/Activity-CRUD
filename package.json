@@ -1,0 +1,25 @@
+{
+  "name": "activity-crud",
+  "version": "1.0.0",
+  "description": "Simple CRUD API using Express.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rglhnoj/Activity-CRUD.git"
+  },
+  "keywords": [],
+  "author": "Rglhnoj",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Rglhnoj/Activity-CRUD/issues"
+  },
+  "homepage": "https://github.com/Rglhnoj/Activity-CRUD#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
